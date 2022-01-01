@@ -1,6 +1,6 @@
 ## Project Name
 
-Todo-List App
+React Todo-List App
 
 ## Project Description
 
